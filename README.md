@@ -1,4 +1,5 @@
-# Hybrid Quantum-Classical Neural Network for Diabetes Prediction
+#### 1. Hybrid Classical-Quantum Neural Network for Diabetes Prediction
+Developed a hybrid QNN using angle encoding on 8 qubits executed on IBM’s real 156-qubit **ibm_fez** processor. Achieved **72%** quantum accuracy (vs 78% classical baseline) with 100+ real quantum jobs.
 
 **Project Report** | Real Execution on IBM Quantum Hardware
 
@@ -21,6 +22,8 @@ Developed a **hybrid quantum-classical neural network (QNN)** for binary diabete
 - **Quantum**: PennyLane, Qiskit, IBM Quantum (ibm_fez)
 - **Classical**: PyTorch, scikit-learn
 - **Dataset**: Pima Indians Diabetes (768 samples, 8 features)
+[View Full Project →](https://github.com/Minnush/quantum-diabetes-prediction)  
+[📄 Download Full Report (PDF)](https://github.com/Minnush/quantum-diabetes-prediction/blob/main/HYBRID%20QUANTUM%20COMPUTING%20NEURAL%20NETWORK%20ON%20PREDICTING%20DIABETES%20USING%20PIMA%20INDIAN%20DIABETES%20DATASET.pdf)
 
 ## Full Project Report
 📄 **[Download Full 16-Page Report (PDF)](HYBRID%20QUANTUM%20COMPUTING%20NEURAL%20NETWORK%20ON%20PREDICTING%20DIABETES%20USING%20PIMA%20INDIAN%20DIABETES%20DATASET.pdf)**  
