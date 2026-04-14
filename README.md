@@ -38,6 +38,6 @@ Contains complete code, step-by-step execution, IBM Workloads screenshots, confu
 
 ---
 
-**Authors**: Minnushaa A. A (23MIS1035) & Naveen Raj. R (23MIS1129)  
+**Authors**: Minnushaa A. A (23MIS1035)
 **Date**: April 2026  
 **Made for academic project**
