@@ -1,3 +1,3 @@
-# Screenshots folder
-
-This folder contains images, graphs, and IBM Quantum screenshots for the project.
+### Screenshots
+![IBM Workloads](screenshots/ibm_implementation.jpeg)
+![Results](screenshots/test_accuracy.jpeg)
